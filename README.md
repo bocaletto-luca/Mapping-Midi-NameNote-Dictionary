@@ -1,4 +1,9 @@
-# Mapping-Midi-NameNote-Dictionary
-# Author: Bocaletto Luca Aka Elektronoide
-This is the mapping for the conversion of the Midi signal received in the name of the note, it contains the dictionaries in English, Italian and English+Italian
-Questa è la mappatura per la conversione del segnale Midi ricevuto a nome della nota, contiene i dizionari in lingua Inglese, Italiano e Inglese+Italiano
+# Mapping Midi Name to Note Dictionary
+
+## Author: Bocaletto Luca Aka Elektronoide
+
+This repository provides a mapping for converting Midi signals into note names. It includes dictionaries in English, Italian, and a combination of English and Italian.
+
+## Introduzione
+
+Questo repository fornisce una mappatura per la conversione dei segnali Midi in nomi delle note. Include dizionari in inglese, italiano e una combinazione di inglese e italiano.
