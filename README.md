@@ -1,6 +1,6 @@
 # Mapping Midi Name to Note Dictionary
 
-## Author: Bocaletto Luca Aka Elektronoide
+### Author: Bocaletto Luca
 
 ## Introduction
 
